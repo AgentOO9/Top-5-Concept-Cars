@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 5 Unique Concept Cars</title>
+    <link rel="stylesheet" href="muc.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Top 5 Unique Concept Cars</h1>
+        <h3>From The Past</h3>
+        <div class="logo-container">
+            <img src="mercedeslogo.png" alt="Mercedes" class="brand-logo">
+            <img src="bull.png" alt="Aston Martin" class="brand-logo">
+            <img src="alphalogo.png" alt="Alfa Romeo" class="brand-logo">
+            <img src="bmw.png" alt="BMW" class="brand-logo">
+            <img src="gm.png" alt="GM" class="brand-logo">
+        </div>
+    </header>
+    <hr>
+    <main>
+        <section class="mercedes-avtr">
+            <div class="car-header">
+                <h2>1. Mercedes-Benz Vision AVTR</h2>
+            </div>
+            <img src="avtr.jpg" alt="Mercedes-Benz Vision AVTR" class="car-img">
+            <p class="car-description">The <i>Mercedes-Benz Vision AVTR</i> is a drivable, sustainable concept car inspired by the movie <b>Avatar</b>, featuring a 110 kWh graphene-based organic battery and a whopping <b>700 km range</b>. The car has no traditional steering wheel — instead, the driver places their hand on a central console that <b>reads their heartbeat</b> and merges with the vehicle through a brain-computer interface. 26 flap-like scales on the rear of the car move independently like the scales of a living creature, giving it an almost biological feel. The interior is made entirely from sustainable and vegan materials, with no leather or plastics in sight. Four individual electric motors power each wheel separately, producing a combined 350 kW — roughly 469 horsepower — allowing all four wheels to turn 30 degrees sideways, letting the car move crab-style. Unveiled at CES 2020 in Las Vegas, the Vision AVTR was designed in collaboration with the creators of the Avatar film franchise, making it one of the most unique crossovers between Hollywood and the automotive world ever seen.</p>
+            <div class="car-links">
+                <a href="https://www.youtube.com/watch?v=ekgUjyWe1Yc" target="_blank" class="link-btn">▶ Watch a Video</a>
+                <a href="https://www.mercedes-benz.co.in/passengercars/brand/vision-avtr.html" target="_blank" class="link-btn">More Information</a>
+                <a href="https://3dmodels.org/360-view/?id=213403" target="_blank" class="link-btn">⬡ View 3D Model</a>
+            </div>
+        </section>
+        <section class="aston-bulldog">
+            <div class="car-header">
+                <h2>2. Aston Martin Bulldog</h2>
+            </div>
+            <img src="astonmbulldog.webp" alt="Aston Martin Bulldog" class="car-img">
+            <p class="car-description">The <i>Aston Martin Bulldog</i> was a radical departure from everything Aston Martin had ever made. This brash wedge-shaped supercar featured <b>gullwing doors</b>, squared-off ends, and recessed headlights hidden beneath a folding panel. Under the hood sat a twin-turbo <b>5.3-litre V8 producing 650 horsepower</b>, with a claimed top speed of 200 mph — making it one of the most ambitious British supercars ever conceived. Only one was ever built, making it one of the rarest concept cars in existence.</p>
+            <div class="car-links">
+                <a href="https://www.youtube.com/watch?v=aston-bulldog" target="_blank" class="link-btn">▶ Watch a Video</a>
+                <a href="https://www.astonmartin.com" target="_blank" class="link-btn">More Information</a>
+                <a href="https://3dmodels.org" target="_blank" class="link-btn">⬡ View 3D Model</a>
+            </div>
+        </section>
+        <section class="alfa-bat">
+            <div class="car-header">
+                <h2>3. Alfa Romeo BAT Cars</h2>
+            </div>
+            <img src="alpharbat.webp" alt="Alfa Romeo BAT" class="car-img">
+            <p class="car-description">The <i>Alfa Romeo BAT Cars</i> — standing for <b>Berlina Aerodinamica Tecnica</b> — were a series of three stunning concept cars built between 1953 and 1955 in collaboration with Bertone. Each one pushed the boundaries of aerodynamic design further than the last. The 1954 BAT 7 achieved a drag coefficient of just <b>0.19</b> — a number that rivals modern hypercars. Their dramatically curved tail fins, sweeping rooflines, and sculpted bodywork made them look like they had flown in from another era entirely.</p>
+            <div class="car-links">
+                <a href="https://www.youtube.com/watch?v=alfa-bat" target="_blank" class="link-btn">▶ Watch a Video</a>
+                <a href="https://www.alfaromeo.com" target="_blank" class="link-btn">More Information</a>
+                <a href="https://3dmodels.org" target="_blank" class="link-btn">⬡ View 3D Model</a>
+            </div>
+        </section>
+        <section class="bmw-gina">
+            <div class="car-header">
+                <h2>4. BMW GINA Light Visionary Model</h2>
+            </div>
+            <img src="bmwgina.jpg" alt="BMW GINA" class="car-img">
+            <p class="car-description">The <i>BMW GINA</i> — standing for <b>Geometry and Functions In 'N' Adaptions</b> — is one of the most extraordinary concept cars ever built. Unveiled in 2008 after seven years of development, its entire body is covered in a <b>polyurethane-coated Spandex fabric</b> stretched over a moveable aluminium wire frame. The car can literally change its shape — headlights open like eyelids, the hood splits down the middle, and the rear spoiler rises out of the fabric at high speed. There are only four panels on the entire car, yet the surface appears completely seamless. It is fully drivable and currently lives in the BMW Museum in Munich.</p>
+            <div class="car-links">
+                <a href="https://www.youtube.com/watch?v=bmw-gina" target="_blank" class="link-btn">▶ Watch a Video</a>
+                <a href="https://www.bmw.com" target="_blank" class="link-btn">More Information</a>
+                <a href="https://3dmodels.org" target="_blank" class="link-btn">⬡ View 3D Model</a>
+            </div>
+        </section>
 
+        <section class="buick-centurion">
+            <div class="car-header">
+                <h2>5. Buick Centurion</h2>
+            </div>
+            <img src="bc.jpg" alt="Buick Centurion" class="car-img">
+            <p class="car-description">The <i>Buick Centurion</i> of 1956 looked like it had been ripped straight off a jet fighter. Its massive <b>all-glass bubble canopy</b>, cone-shaped rear taillight mimicking a jet turbine, and U-shaped front end made it unlike anything on American roads. But the Centurion wasn't just a pretty shell — it came loaded with technology decades ahead of its time, including a <b>dial-operated transmission</b>, automatic adjusting seats, and most remarkably, a <b>rear-mounted camera feeding a screen on the dashboard</b> — the first ever rearview camera on a car, nearly 60 years before it became standard.</p>
+            <div class="car-links">
+                <a href="https://www.youtube.com/watch?v=buick-centurion" target="_blank" class="link-btn">▶ Watch a Video</a>
+                <a href="https://www.gm.com" target="_blank" class="link-btn">More Information</a>
+                <a href="https://3dmodels.org" target="_blank" class="link-btn">⬡ View 3D Model</a>
+            </div>
+        </section>
+
+    </main>
+    <footer>
+        <p>© 2025 Top 5 Unique Concept Cars | Built for the Web Design Contest</p>
+    </footer>
+</body>
+</html>
